@@ -1,4 +1,4 @@
-# Social website--Djanog-React-DRFW-simpleJWT
+# Social website(Instagram like)--Djanog-React-DRFW-simpleJWT
 
 I created this website from scratch using : Django,Djangorestframework,React,simpleJWT
 
